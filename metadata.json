@@ -1,0 +1,7 @@
+{
+  "name": "Uganda Carbon-Ed Bond Platform",
+  "description": "A comprehensive investment and impact dashboard for the Green Ventures Uganda Carbon Credit program, focusing on the intersection of carbon sequestration and child education.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
